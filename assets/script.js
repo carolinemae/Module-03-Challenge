@@ -38,4 +38,3 @@ function genPassword() {
 }
 
 generateBtn.addEventListener("click", genPassword);
-
